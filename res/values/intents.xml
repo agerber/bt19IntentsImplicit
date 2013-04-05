@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="str_intents">
+        <item>Open Browser</item>
+        <item>Call Someone</item>
+        <item>Dial</item>
+        <item>Show Map</item>
+        <item>Search on Map</item>
+        <item>Take picture</item>
+        <item>Show contacts</item>
+        <item>Edit first contact</item>
+        <item>Send generic text</item>
+    </string-array>
+    
+</resources>
